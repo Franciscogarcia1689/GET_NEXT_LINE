@@ -1,0 +1,17 @@
+### Visual Studio Code ###
+.vscode/
+
+### Mac OS ###
+# General
+.DS_Store
+
+# Executables
+*.out
+
+# Libraries
+*.lib
+*.a
+
+# Object files
+*.o
+*.obj
